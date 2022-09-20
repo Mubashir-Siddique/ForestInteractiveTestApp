@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForestInteractiveTestApp", "WebApplication1\ForestInteractiveTestApp.csproj", "{1F22FA4E-5D44-4B7D-9E5B-282BD5BF6CBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitCore", "NUnitCore\NUnitCore.csproj", "{6A75A43E-99EB-4666-BDC3-A15089767FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F22FA4E-5D44-4B7D-9E5B-282BD5BF6CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F22FA4E-5D44-4B7D-9E5B-282BD5BF6CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F22FA4E-5D44-4B7D-9E5B-282BD5BF6CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F22FA4E-5D44-4B7D-9E5B-282BD5BF6CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A75A43E-99EB-4666-BDC3-A15089767FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A75A43E-99EB-4666-BDC3-A15089767FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A75A43E-99EB-4666-BDC3-A15089767FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A75A43E-99EB-4666-BDC3-A15089767FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BBD44EB-4CA8-4C31-BE0D-11984311EF0D}
+	EndGlobalSection
+EndGlobal
